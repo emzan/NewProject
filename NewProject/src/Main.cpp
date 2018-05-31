@@ -32,7 +32,7 @@ int main()
 
 	std::cin.get();
 }
-
+//tutte le palle rotte
 // ciao!
 
 //come ve la cavate?
