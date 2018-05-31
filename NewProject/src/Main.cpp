@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#pragma
 
 struct Vector3
 {
@@ -30,10 +31,14 @@ int main()
 	harray[4] = 5;
 	Vector3* hvector = new Vector3();
 
+
+
 	std::cin.get();
 }
 
 // ciao!
-
+//Io ci sono
 //come ve la cavate?
+//Ci vediamo stasera
+//OK!
 
