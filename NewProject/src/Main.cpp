@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#pragma once
 
 struct Vector3
 {
@@ -9,8 +8,6 @@ struct Vector3
 	Vector3()
 		: x(10), y(11), z(12) {}
 };
-
-//Tuttosommato Funziona
 
 int main()
 {
@@ -37,10 +34,5 @@ int main()
 
 	std::cin.get();
 }
-//tutte le palle rotte
-// ciao!
-//Io ci sono
-//come ve la cavate?
-//Ci vediamo stasera
-//OK!
+
 
