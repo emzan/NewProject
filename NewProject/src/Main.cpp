@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#pragma
+#pragma once
 
 struct Vector3
 {
@@ -9,6 +9,8 @@ struct Vector3
 	Vector3()
 		: x(10), y(11), z(12) {}
 };
+
+//Tuttosommato Funziona
 
 int main()
 {
