@@ -34,5 +34,5 @@ int main()
 
 	std::cin.get();
 }
-
+//vorrei sapere come farlo scendere per atom
 
